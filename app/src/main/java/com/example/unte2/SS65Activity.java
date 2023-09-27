@@ -17,4 +17,4 @@ public class SS65Activity extends AppCompatActivity {
     public void Onayla(View view) {
         Toast.makeText(this, "Onayla Metoduyum.", Toast.LENGTH_LONG).show();
     }
-}
+}z

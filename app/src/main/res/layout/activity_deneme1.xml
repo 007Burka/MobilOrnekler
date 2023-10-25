@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Deneme1">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="238dp"
+        android:layout_height="153dp"
+        android:padding="05dp"
+        android:text="Bilişim Teknolojileri Alanı"
+        android:textColor="#FF0000"
+        android:textSize="35sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="33dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".GoldSoru3">
+
     <EditText
         android:layout_width="150dp"
         android:layout_height="70dp"
@@ -45,7 +46,7 @@
     <TextView
         android:layout_width="150dp"
         android:layout_height="50dp"
-        android:text="index:0"
+        android:text="Index:0"
         android:textSize="30dp"
         android:textStyle="bold"
         android:layout_editor_absoluteY="110dp"
